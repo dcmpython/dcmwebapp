@@ -1,5 +1,5 @@
 # Web framework
-Flask==2.0.1
+Flask==1.1.4
 
 # External API client library
 polygon-api-client==1.2.0
