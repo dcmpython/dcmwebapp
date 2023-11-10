@@ -1,5 +1,6 @@
 # Web framework
-Flask==1.1.4
+Flask==2.0.1
+Gunicorn==20.1.0
 
 # External API client library
 polygon-api-client==1.2.0
