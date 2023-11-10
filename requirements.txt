@@ -7,8 +7,6 @@ polygon-api-client==1.2.0
 
 #Exclusions messing up a simple Hello World app wow
 --no-binary :all: numpy
-Werkzeug!=2.1.0
-Werkzeug!=2.2
 Markupsafe!=2.0.0
 
 
