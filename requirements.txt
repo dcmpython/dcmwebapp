@@ -7,4 +7,8 @@ pandas==1.3.3
 # External API client library
 polygon-api-client==1.2.0
 
+#Exclude numpy with error issues
+--no-binary :all: numpy
+
+
 
