@@ -4,8 +4,6 @@ Flask==2.0.1
 # External API client library
 polygon-api-client==1.2.0
 
-Werkzeug==2.0.1
-
 #Exclude numpy with error issues
 --no-binary :all: numpy
 
