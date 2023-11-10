@@ -14,4 +14,5 @@ requests==2.26.0
 numpy==1.21.1
 pip==21.3.1
 setuptools==57.5.0
+blas==1.0
 
